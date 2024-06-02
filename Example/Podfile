@@ -1,6 +1,0 @@
-use_frameworks!
-target 'CommonUiKit_Tests' do
-  pod 'CommonUiKit', :path => '../'
-  
-  
-end
