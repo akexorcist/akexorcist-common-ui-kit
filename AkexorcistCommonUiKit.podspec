@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'CommonUiKit'
+  s.name             = 'AkexorcistCommonUiKit'
   s.version          = '0.1.1'
   s.summary          = 'Common UI Kit'
 
