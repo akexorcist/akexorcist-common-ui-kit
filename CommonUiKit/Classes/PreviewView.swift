@@ -19,10 +19,10 @@ public class PreviewView: UIView {
         }
     }
     
-    override class public var layerClass: AnyClass{
-        get {
-            return AVCaptureVideoPreviewLayer.self
-        }
-        set {}
-    }
+    // override class public var layerClass: AnyClass{
+    //     get {
+    //         return AVCaptureVideoPreviewLayer.self
+    //     }
+    //     set {}
+    // }
 }
