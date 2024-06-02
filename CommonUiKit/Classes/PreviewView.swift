@@ -1,7 +1,7 @@
 import UIKit
 import AVFoundation
 
-class PreviewView: UIView {
+public class PreviewView: UIView {
 
     var videoPreviewLayer: AVCaptureVideoPreviewLayer {
         guard let layer = layer as? AVCaptureVideoPreviewLayer else {
